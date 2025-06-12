@@ -1,0 +1,1 @@
+The Sales data set was found in Kaggle, where the data contained the average number of advertisements for a particular product in TV, Newspaper and Radio, and the corresponding sales. Implemented Exploratory Data Analysis, Multiple Linear Regression, Ridge Regression, Lasso Regression and Elastic Net Regression, to find out the effects of Marketing Activities.
